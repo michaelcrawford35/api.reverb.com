@@ -1,4 +1,4 @@
-## api.reverb.io
+## api.reverb.com
 
 A small application I wrote while learning tinkering with Laravel Reverb.
 
